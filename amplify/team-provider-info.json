@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "ampapp1cbc2360": {}
+      },
+      "api": {
+        "ampapp": {}
       }
     }
   }
